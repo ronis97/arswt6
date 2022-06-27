@@ -1,13 +1,13 @@
-# Quinto taller de ARSW
+# Sexto taller de ARSW
 
-Juego de picas y famas
+Tablero interactivo multiusuario
 
 ## Preparacion
 
 Clonamos el repositorio con la siguiente instrucción en consola:
 
 ```
-https://github.com/ronis97/ARSWT3.git
+https://github.com/ronis97/arswt6
 ```
 
 
@@ -44,13 +44,13 @@ http://127.0.0.1:8080
 
 ### Ejecucion
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://nameless-wildwood-72152.herokuapp.com)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://interactive-whiteboard01.herokuapp.com)
 
 
 
 ### Diagrama de clases
 
-El diagrama completo se puede encontrar en el archivo `TallerArsw5.asta` 
+El diagrama completo se puede encontrar en el archivo `tallerArsw6.asta` 
 
 [](https://github.com/ronis97/ARSWT5/blob/main/resources/Tallerarsw5.png)
 
