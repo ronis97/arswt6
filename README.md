@@ -41,6 +41,8 @@ En el navegador entramos con la dirección:
 http://127.0.0.1:8080
 ```
 
+![](https://github.com/ronis97/arswt6/blob/main/resources/Captura.JPG)
+
 
 ### Ejecucion
 
@@ -52,7 +54,7 @@ http://127.0.0.1:8080
 
 El diagrama completo se puede encontrar en el archivo `tallerArsw6.asta` 
 
-[](https://github.com/ronis97/ARSWT5/blob/main/resources/Tallerarsw5.png)
+![](https://github.com/ronis97/arswt6/blob/main/resources/diagramaclases.png)
 
 
 
